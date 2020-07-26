@@ -18,3 +18,6 @@ color_palette: Returning an instance of color box
 1. Just run the main.py file.
 2. Ensure a uniform background. Otherwise the background subtraction algorithm fails.
 3. Results might vary with varying illumination levels in the room. Hence, ensure you are in a properly illuminated room.
+
+# Demo Video Link:
+YouTube: https://www.youtube.com/watch?v=WRE9eQk_tqo
