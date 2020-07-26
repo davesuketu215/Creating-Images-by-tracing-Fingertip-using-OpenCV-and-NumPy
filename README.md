@@ -1,0 +1,2 @@
+# Image_By_Fingertip_Trace
+This is my first Computer Vision project using OpenCV and NumPy. Whatever the user will draw in the free air, within the "Region of Trace", it will be captured through WebCam and traced onto the whiteboard. Color Palette is available to select various colors for drawing on the whiteboard. The final trace image on the whiteboard will be downloaded as a .jpg file, with a timestamp.
